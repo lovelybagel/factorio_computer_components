@@ -1,0 +1,18 @@
+TODO LIST:
+components to add to the game
+registers
+    read/writeable
+    reset, increment, and decrement functions
+roms
+    addressable
+    read enable
+    UI for entering the data
+ram
+    addressable
+    write enable, read enable
+    with a reset
+counter
+    counts the number of times an input pulse is recieved
+    with a reset
+clock
+    creates a user defined clock signal
